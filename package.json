@@ -1,0 +1,12 @@
+{
+  "name": "prompt-engineering",
+  "version": "1.0.0",
+  "description": "### Instruction Tuned LLMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
