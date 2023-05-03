@@ -2,3 +2,4 @@ jupyterlab
 openai
 load_dotenv
 nbconvert
+redlines
