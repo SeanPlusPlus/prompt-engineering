@@ -55,4 +55,5 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/6/transforming
 - Can also translate tone (slang to formal business)
 - Format (JSON to HTML)
 - Spellcheck and Grammar check
+- Just ask it to use APA as well
 - Can redline text and as well!
