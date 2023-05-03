@@ -72,3 +72,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding
 - Temperature allows us to change variety of responses
 
 ![temp](https://media.discordapp.net/attachments/1085597727364223178/1103433592853516318/image.png)
+
+- - - -
+
+### 8. Chatbot
