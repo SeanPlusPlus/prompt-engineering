@@ -57,3 +57,10 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/6/transforming
 - Spellcheck and Grammar check
 - Just ask it to use APA as well
 - Can redline text and as well!
+
+### 7. Expanding
+
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding
+
+- Degree of randomness of model
+- Temperature allows us to change variety of responses
