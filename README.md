@@ -79,4 +79,10 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot
 
+- Each interaction with a large language model is a standalon interaction
+- You need to pass the entire body of previous parts of a conversation to "simulate" that a conversation is ongoing
+- Also can program roles
+- System, Assistant, User ... 3 roles
+- As a dev, we can set the `System` message to "whisper in the ear" of the `Assistant`
+
 ![assistnat](https://cdn.discordapp.com/attachments/1085597727364223178/1103443026459771000/image.png)
