@@ -5,9 +5,9 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 
-* Fine tuned instructions
-* RLHF: Reinforcement Learning with Human Feedback
-* More widely used than Base LLMs
+- Fine tuned instructions
+- RLHF: Reinforcement Learning with Human Feedback
+- More widely used than Base LLMs
 
 - - - -
 
@@ -33,7 +33,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/3/iterative
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/4/summarizing
 
-* If you have a site with many reviews, super useful to ask LLM to summarize
+- If you have a site with many reviews, super useful to ask LLM to summarize
 
 - - - -
 
@@ -41,7 +41,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/4/summarizing
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/5/inferring
 
-* Useful tools for sentiment analysis
+- Useful tools for sentiment analysis
 
 - - - -
 
@@ -49,3 +49,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/5/inferring
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/6/transforming
 
+- Translating languages super straightforward
+- Can also translate tone (slang to formal business)
+- Format (JSON to HTML)
+- Spellcheck and Grammar check
