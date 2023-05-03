@@ -3,3 +3,4 @@ openai
 load_dotenv
 nbconvert
 redlines
+panel
