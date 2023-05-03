@@ -76,3 +76,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding
 - - - -
 
 ### 8. Chatbot
+
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot
+
+![assistnat](https://cdn.discordapp.com/attachments/1085597727364223178/1103443026459771000/image.png)
