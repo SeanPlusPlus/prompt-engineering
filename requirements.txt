@@ -1,2 +1,3 @@
 jupyterlab
 openai
+load_dotenv
