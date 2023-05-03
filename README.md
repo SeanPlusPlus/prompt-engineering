@@ -19,6 +19,8 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines
 - Ask for structured output
 - Provide concrete steps for the model to follow
 
+https://twitter.com/SeanPlusPlus/status/1653842628067328000
+
 - - - -
 
 ### 3. Iterative
