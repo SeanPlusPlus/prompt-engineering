@@ -27,7 +27,9 @@ https://twitter.com/SeanPlusPlus/status/1653842628067328000
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/3/iterative
 
-- Build up prompts
+- Build up prompts to get to a desired output
+
+![iter](https://cdn.discordapp.com/attachments/1085597727364223178/1103434229632737391/45392566-2E36-44CD-96FD-247764A30CE3.png)
 
 - - - -
 
