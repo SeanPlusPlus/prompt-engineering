@@ -60,6 +60,8 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/6/transforming
 - Just ask it to use APA as well
 - Can redline text and as well!
 
+![transform](https://media.discordapp.net/attachments/1085597727364223178/1103435179286089780/image.png)
+
 - - - -
 
 ### 7. Expanding
